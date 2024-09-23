@@ -1,1 +1,11 @@
-print("Hello")
+num_of_labs = input("Enter the number of labs completed: ")
+num_of_quiz = input("Enter the number of quizzes completed: ")
+assignment_1 = input("Enter grade for Assignment 1: ")
+assignment_2 = input("Enter grade for Assignment 2: ")
+assignment_3 = input("Enter grade for Assignment 3: ")
+assignment_4 = input("Enter grade for Assignemnt 4: ")
+midterm_1 = input("Enter grade for Midterm 1: ")
+midterm_2 = input("Enter grade for Midterm 2: ")
+final_exam = input("Enter grade for Final Exam: ")
+midterm_final_prep = input("Enter grade for Midterm and Final Proposition: ")
+ 
